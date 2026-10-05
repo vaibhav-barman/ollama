@@ -16,3 +16,4 @@ start-2.py
 
 # Vector DB
 chroma_db/
+db/vector_db/
