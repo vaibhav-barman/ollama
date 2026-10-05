@@ -1,0 +1,14 @@
+# Python virtual environment and cache
+.venv/
+__pycache__/
+*.pyc 
+.DS_Store
+
+# Ignore Local Practice Scripts
+start-1.py
+start-2.py
+
+# Ignore local Ollama Modelfiles
+[Mm]odelfile
+.env
+chroma_db/

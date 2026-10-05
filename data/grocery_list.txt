@@ -1,0 +1,60 @@
+Apple
+Banana
+Strawberry
+Blueberry
+Orange
+Avocado
+Spinach
+Kale
+Broccoli
+Carrot
+Tomato
+Onion
+Garlic
+Potato
+Bell Pepper
+Cucumber
+Lettuce
+Celery
+Mushroom
+Zucchini
+Chicken Breast
+Ground Beef
+Salmon Fillet
+Pork Chop
+Turkey Breast
+Shrimp
+Bacon
+Milk
+Egg
+Cheddar Cheese
+Mozzarella Cheese
+Greek Yogurt
+Butter
+Almond Milk
+Cream Cheese
+Bread
+Rice
+Pasta
+Oats
+Olive Oil
+Canned Tomato
+Black Bean
+Chickpea
+Peanut Butter
+Honey
+Flour
+Sugar
+Salt
+Black Pepper
+Coffee Bean
+Green Tea
+Almond
+Walnut
+Dark Chocolate
+Tortilla Chip
+Popcorn
+Crackers
+Apple Juice
+Orange Juice
+Water

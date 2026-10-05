@@ -1,0 +1,68 @@
+Here is the categorized list of grocery items:
+
+**1. Bakery**
+• Bread
+• Flour
+• Sugar
+
+**2. Dairy**
+• Butter
+• Cheddar Cheese
+• Cream Cheese
+• Egg
+• Greek Yogurt
+• Milk
+• Mozzarella Cheese
+• Powdered Milk (Almond Milk, etc.)
+
+**3. Meat**
+• Bacon
+• Chicken Breast
+• Ground Beef
+• Pork Chop
+• Salmon Fillet
+• Shrimp
+• Turkey Breast
+
+**4. Produce**
+• Apple
+• Banana
+• Bell Pepper
+• Blueberry
+• Broccoli
+• Carrot
+• Celery
+• Cucumber
+• Garlic
+• Kale
+• Lettuce
+• Mushroom
+• Orange
+• Onion
+• Potato
+• Spinach
+• Tomato
+
+**5. Beverages**
+• Almond Milk
+• Coffee Bean
+• Creamer (if applicable)
+• Honey
+• Juice (Apple, Orange, Water)
+• Popcorn
+• Soda (if applicable)
+• Water
+
+**6. Snacks**
+• Crackers
+• Popcorn
+• Tortilla Chips
+
+**7. Spices and Seasonings**
+• Black Pepper
+• Cumin (if applicable)
+• Oregano (if applicable)
+• Paprika (if applicable)
+• Salt
+
+Note: Some items could fit into multiple categories, but I've placed them in what seems to be their most relevant group.
